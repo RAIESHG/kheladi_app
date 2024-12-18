@@ -1,0 +1,1 @@
+ /Users/developer/Documents/My\ Drive/team_kheladi/kheladi_app/.dart_tool/flutter_build/2ea6e9b2f41e52b2a7f2f25a417a21bd/native_assets.yaml: 
